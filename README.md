@@ -25,10 +25,10 @@
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 📊 GitHub Stats:
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kareem221215&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kareem221215&theme=radical"/>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kareem221215&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kareem221215&theme=radical"/>
+</p>
 
 ## 📈 Activity Graph:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kareem221215&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)

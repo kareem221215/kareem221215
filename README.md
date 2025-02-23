@@ -1,4 +1,4 @@
-# 👋 Hey! I'm [Kareem]
+# 👋 Hey! I'm Kareem
 
 ## 🚀 About Me
 - 💻 I'm currently attending Patika+ to improve my skills

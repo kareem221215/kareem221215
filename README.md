@@ -27,7 +27,7 @@
 ## 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kareem221215&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=kareem221215&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kareem221215&theme=radical)](https://git.io/streak-stats)
 
 ## 📈 Activity Graph:
 [![Your activity graph](https://activity-graph.herokuapp.com/graph?username=kareem221215&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)

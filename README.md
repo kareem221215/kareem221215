@@ -30,4 +30,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?https://github.com/kareem221215&theme=radical)](https://git.io/streak-stats)
 
 ## 📈 Activity Graph:
-[![Your activity graph](https://activity-graph.herokuapp.com/graph?https://github.com/kareem221215&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Your activity graph](https://activity-graph.herokuapp.com/graph?kareem221215&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)

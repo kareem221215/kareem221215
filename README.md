@@ -26,8 +26,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kareem221215&show_icons=true&theme=radical"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kareem221215&theme=radical"/>
+  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=kareem221215&show_icons=true&theme=radical"/>
+  <img height="160em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kareem221215&theme=radical&hide_border=true"/>
 </p>
 
 ## 📈 Activity Graph:
